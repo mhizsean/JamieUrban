@@ -1,0 +1,52 @@
+.brand {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    justify-content: left;
+    align-items: center;
+    padding: 30px;
+    margin: 0;
+    background: #ffffff
+}
+
+.slider {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 auto;
+   
+}
+
+
+
+.image1 img{
+    width:500px;
+    align-content: center;
+}
+.img{
+    width:500px;
+    align-content: center;
+}
+.imag1 img{
+    width: 100%;
+
+    
+} 
+.imag2 img{
+    width: 100%;
+}
+.imag3 img {
+    width:100%;
+
+}
+
+.imag4 img{
+    width: 100%;
+    
+}
+
+.imag5 img{
+    width: 100%;
+}
+.imag6 img{
+    width: 100%;
+}
+

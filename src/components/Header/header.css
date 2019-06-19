@@ -1,0 +1,23 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #000000;
+    border-bottom: 1px solid #ffffff;
+    height: 56px;
+}
+
+.headerOpt {
+    display:flex;
+    
+}
+
+.logo {
+    flex-grow: 1;
+    padding-top:8px; 
+}
+
+.logo img {
+    width: 50px;
+}
